@@ -3,3 +3,7 @@
 ################################################################################
 
 /DublettenChecker/bin/Debug
+/DublettenChecker/obj/Debug
+/DublettenChecker/Suchordner.zip
+/DublettenCheckerTest/bin/Debug
+/DublettenCheckerTest/obj/Debug
