@@ -2,6 +2,10 @@
 Checks for file dublicates.
 Command line arguments are not supported, change the SearchPath and MODI manually.
 
+## Sample Code
+
+The Sammle_Kandidaten() method collects possible dublicates by file size and file name depending on Vergleichsmodi.
+The Pruefe_Kandidaten takes the result of "Sammle_Kandidaten" and compares their md5 file hash code and returns the matches.
 
 
 ```csharp
